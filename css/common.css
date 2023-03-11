@@ -1,3 +1,9 @@
+.project_link{
+
+    color: #F25C39;
+    text-decoration: underline;
+}
+
 .block {
     display: block;
 }
